@@ -1,7 +1,7 @@
 Command:
 
 Fontend;
-
+npm add ngx-bootstrap 
 
 Backend;
 dotnet add package Microsoft.EntityFrameworkCore
